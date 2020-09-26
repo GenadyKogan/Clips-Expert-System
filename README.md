@@ -12,7 +12,7 @@ PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/PHABLET) based
 
 ## (1) Knowledge (expertise) database 
 
-###{Discussion how we decided on our rules}
+### {Discussion how we decided on our rules}
 
 HOW THE EXPERT SYSTEM WORKS ??? 
 
