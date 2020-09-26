@@ -82,7 +82,7 @@ Enter your preferred inch (7/8/10.1):  7
 Enter your preferred capacity (16/32):  16
 Enter your preferred color (black/grey):  black
 Enter your preferred model (TAB E7 TB-7104: enter x/ TAB M7 TB-7305: enter y):  x
-Results:
+Result:
 Lenovo TAB E7 TB-7104I 16GB ZA410053IL - Black - 3G
 -------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------
