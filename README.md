@@ -6,7 +6,7 @@ Using CLIPS
 ============= MOBILE/TABLET/PHABLET Recommendation System =============
 
 
-### MEMBERS:Genady Kogan
+#### MEMBERS: Genady Kogan
 
 PROJECT NAME: MOBILE/TABLET/PHABLET Recommendation System
 
