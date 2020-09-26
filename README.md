@@ -11,6 +11,7 @@ PROJECT NAME: MOBILE/TABLET/PHABLET Recommendation System
 PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/PHABLET) based on inputs a user enters.
 
 Step 1 : Download and install the software CLIPS 6.3 from the link given here: https://sourceforge.net/projects/clipsrules/files/
+
 #------------------------------HOW TO RUN CODE------------------------------------------
 
 Step 2 : Open the CLIPS 6.3 Dialog window which has been installed on the system.
