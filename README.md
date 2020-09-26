@@ -3,7 +3,7 @@
 Using CLIPS 
 
 
-============= MOBILE/TABLET/PHABLET Recommendation System =============
+# ============= MOBILE/TABLET/PHABLET Recommendation System =============
 
 
 MEMBERS:Genady Kogan
@@ -12,7 +12,7 @@ PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/PHABLET) based
 
 Step 1 : Download and install the software CLIPS 6.3 from the link given here: https://sourceforge.net/projects/clipsrules/files/
 
-#------------------------------HOW TO RUN CODE------------------------------------------
+#------------------------------HOW TO RUN CODE------------------------------
 
 Step 2 : Open the CLIPS 6.3 Dialog window which has been installed on the system.
 
@@ -54,8 +54,8 @@ Results:
 Lenovo TAB E7 TB-7104I 16GB ZA410053IL - Black - 3G
 -------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------
-```
 CLIPS>
+```
 FILES USED:
 Project.clp
 README
