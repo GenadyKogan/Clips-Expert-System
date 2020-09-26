@@ -1,4 +1,4 @@
-## Clips-Expert-System
+# Clips-Expert-System
 # Gadget-Recommendation-Expert-System
 Using CLIPS 
 
@@ -10,7 +10,7 @@ MEMBERS:Genady Kogan
 PROJECT NAME: MOBILE/TABLET/PHABLET Recommendation System
 PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/PHABLET) based on inputs a user enters.
 
-# (1) Knowledge (expertise) database {Discussion how we decided on our rules}
+### (1) Knowledge (expertise) database {Discussion how we decided on our rules}
 
 HOW THE EXPERT SYSTEM WORKS ??? 
 
