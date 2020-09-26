@@ -39,7 +39,7 @@ To help understand we have included an example execution of the program.
 --------------------------------------------------------------------------------------------------------
 ------------------------ WELCOME TO THE SMARTPHONES / TABLETS / PHABLETS EXPERT ------------------------
 --------------------------------------------------------------------------------------------------------
-'''CLIPS>(clear)
+``` CLIPS>(clear)
 CLIPS>(load "project.clp")
 CLIPS>(reset)
 CLIPS>(run)
@@ -51,7 +51,7 @@ Enter your preferred capacity (16/32):  16
 Enter your preferred color (black/grey):  black
 Enter your preferred model (TAB E7 TB-7104: enter x/ TAB M7 TB-7305: enter y):  x
 Results:
-Lenovo TAB E7 TB-7104I 16GB ZA410053IL - Black - 3G'''
+Lenovo TAB E7 TB-7104I 16GB ZA410053IL - Black - 3G```
 -------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------
 CLIPS>
