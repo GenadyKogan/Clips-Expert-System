@@ -3,7 +3,7 @@
 Using CLIPS 
 
 
-# ============= MOBILE/TABLET/PHABLET Recommendation System =============
+====== MOBILE/TABLET/PHABLET Recommendation System ======
 
 
 MEMBERS:Genady Kogan
