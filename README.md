@@ -36,7 +36,7 @@ This is a Forward Chaining ES.
 ## (2) How we used it
 
 Step 1 : Download and install the software CLIPS 6.3 from the link given here: https://sourceforge.net/projects/clipsrules/files/
-------------------------------HOW TO RUN CODE------------------------------------------
+------------------HOW TO RUN CODE------------------
 
 Step 2 : Open the CLIPS 6.3 Dialog window which has been installed on the system.
 
