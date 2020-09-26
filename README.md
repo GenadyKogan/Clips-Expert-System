@@ -45,7 +45,9 @@ Step 2 : Open the CLIPS 6.3 Dialog window which has been installed on the system
 
 Step 3 : A file name "project.clp" is provided , which is a CLIPS File. Load this file in the dialog window by commands (clear) and after that (load "project.clp").
 For example:
+
 		CLIPS>(clear)
+		
 		CLIPS>(load "project.clp")
 
 Step 4 : Then, dialog window Execute -> (Reset). 
