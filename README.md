@@ -1,3 +1,4 @@
+## Clips-Expert-System
 # Gadget-Recommendation-Expert-System
 Using CLIPS 
 
@@ -87,7 +88,9 @@ CLIPS>
 ```
 
 FILES USED:
+
 Project.clp
+
 README
 
 # (5) Summary
