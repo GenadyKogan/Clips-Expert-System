@@ -10,7 +10,7 @@ MEMBERS:Genady Kogan
 PROJECT NAME: MOBILE/TABLET/PHABLET Recommendation System
 PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/PHABLET) based on inputs a user enters.
 
-### (1) Knowledge (expertise) database {Discussion how we decided on our rules}
+## (1) Knowledge (expertise) database {Discussion how we decided on our rules}
 
 HOW THE EXPERT SYSTEM WORKS ??? 
 
@@ -33,7 +33,7 @@ Backward chaining is best suited for applications in which the possible conclusi
 
 This is a Forward Chaining ES. 
 
-# (2) How we used it
+## (2) How we used it
 
 Step 1 : Download and install the software CLIPS 6.3 from the link given here: https://sourceforge.net/projects/clipsrules/files/
 ------------------------------HOW TO RUN CODE------------------------------------------
@@ -59,11 +59,11 @@ Answer the questions as asked providing valid inputs
 
 To help understand we have included an example execution of the program.
 
-# (3) Rules
+## (3) Rules
 
 We have 59 rules
 
-# (4) Example
+## (4) Example
 
 ```
 CLIPS>(clear)
@@ -93,5 +93,5 @@ Project.clp
 
 README
 
-# (5) Summary
+## (5) Summary
 
