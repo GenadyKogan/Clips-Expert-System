@@ -6,8 +6,10 @@ Using CLIPS
 ============= MOBILE/TABLET/PHABLET Recommendation System =============
 
 
-MEMBERS:Genady Kogan
+### MEMBERS:Genady Kogan
+
 PROJECT NAME: MOBILE/TABLET/PHABLET Recommendation System
+
 PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/PHABLET) based on inputs a user enters.
 
 ## (1) Knowledge (expertise) database {Discussion how we decided on our rules}
