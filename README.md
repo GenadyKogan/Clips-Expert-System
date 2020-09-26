@@ -66,7 +66,7 @@ To help understand we have included an example execution of the program.
 
 ## (3) Rules
 
-Tablet 59 rules
+Tablet 58 rules
 
 ## (4) Example
 
