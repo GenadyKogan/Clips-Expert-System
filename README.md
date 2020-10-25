@@ -3,14 +3,14 @@
 Using CLIPS 
 
 
-============= MOBILE/TABLET/PHABLET Recommendation System =============
+============= MOBILE/TABLET/LAPTOPS Recommendation System =============
 
 
 #### MEMBERS: Genady Kogan
 
-PROJECT NAME: MOBILE/TABLET/PHABLET Recommendation System
+PROJECT NAME: MOBILE/TABLET/LAPTOPS Recommendation System
 
-PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/PHABLET) based on inputs a user enters.
+PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/LAPTOPS) based on inputs a user enters.
 
 ## (1) Knowledge (expertise) database {Discussion how we decided on our rules}
 
@@ -58,7 +58,7 @@ Now, If the inputs entered aren’t valid the system asks the user to enter a va
 
 The system only asks the questions which are most applicable based on the answer to the previous question.
 
-After enough information is obtained to successfully recommend MOBILE/TABLET/PHABLET . The expert system displays that it recommends best.
+After enough information is obtained to successfully recommend MOBILE/TABLET/LAPTOPS . The expert system displays that it recommends best.
 
 Answer the questions as asked providing valid inputs
 
@@ -76,9 +76,9 @@ CLIPS>(load "project.clp")
 CLIPS>(reset)
 CLIPS>(run)
 --------------------------------------------------------------------------------------------------------
------------------------- WELCOME TO THE SMARTPHONES / TABLETS / PHABLETS EXPERT ------------------------
+------------------------ WELCOME TO THE SMARTPHONES / TABLETS / LAPTOPS EXPERT ------------------------
 --------------------------------------------------------------------------------------------------------
-What do you want to buy? (mobile/tablet/phablet):  tablet
+What do you want to buy? (mobile/tablet/laptop):  tablet
 Let me select a manufacturer
 Enter your preferred company (apple/samsung/lenovo):  lenovo
 Enter your preferred inch (7/8/10.1):  7
@@ -97,6 +97,4 @@ FILES USED:
 Project.clp
 
 README
-
-## (5) Summary
 
