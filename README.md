@@ -75,7 +75,7 @@ CLIPS>(run)
 --------------------------------------------------------------------------------------------------------
 ------------------------ WELCOME TO THE SMARTPHONES / TABLETS / LAPTOPS EXPERT ------------------------
 --------------------------------------------------------------------------------------------------------
-What do you want to buy? (mobile/tablet/laptop):  tablet
+Which device do you prefer? (mobile/tablet/laptop):  tablet
 Let me select a manufacturer
 Enter your preferred company (apple/samsung/lenovo):  lenovo
 Enter your preferred inch (7/8/10.1):  7
