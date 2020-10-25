@@ -5,9 +5,6 @@ Using CLIPS
 
 ============= MOBILE/TABLET/LAPTOPS Recommendation System =============
 
-
-#### MEMBERS: Genady Kogan
-
 PROJECT NAME: MOBILE/TABLET/LAPTOPS Recommendation System
 
 PROJECT DESCRIPTION: This system recommends gadgets(MOBILE/TABLET/LAPTOPS) based on inputs a user enters.
